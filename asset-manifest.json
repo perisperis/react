@@ -1,14 +1,14 @@
 {
-  "main.css": "/perisperis/resume/static/css/main.a405239f.chunk.css",
-  "main.js": "/perisperis/resume/static/js/main.03cbafa5.chunk.js",
-  "main.js.map": "/perisperis/resume/static/js/main.03cbafa5.chunk.js.map",
-  "runtime~main.js": "/perisperis/resume/static/js/runtime~main.7cae982e.js",
-  "runtime~main.js.map": "/perisperis/resume/static/js/runtime~main.7cae982e.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/perisperis/resume/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/perisperis/resume/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/perisperis/resume/index.html",
-  "precache-manifest.f2edb70336049692e14e3fe739feeffc.js": "/perisperis/resume/precache-manifest.f2edb70336049692e14e3fe739feeffc.js",
-  "service-worker.js": "/perisperis/resume/service-worker.js",
-  "static/css/main.a405239f.chunk.css.map": "/perisperis/resume/static/css/main.a405239f.chunk.css.map",
-  "static/media/logo.svg": "/perisperis/resume/static/media/logo.5d5d9eef.svg"
+  "main.css": "/resume/static/css/main.a405239f.chunk.css",
+  "main.js": "/resume/static/js/main.1e6e69a9.chunk.js",
+  "main.js.map": "/resume/static/js/main.1e6e69a9.chunk.js.map",
+  "runtime~main.js": "/resume/static/js/runtime~main.30522d0f.js",
+  "runtime~main.js.map": "/resume/static/js/runtime~main.30522d0f.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/resume/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/resume/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/resume/index.html",
+  "precache-manifest.0a9a8702c96d2cd17afda9d1deb55525.js": "/resume/precache-manifest.0a9a8702c96d2cd17afda9d1deb55525.js",
+  "service-worker.js": "/resume/service-worker.js",
+  "static/css/main.a405239f.chunk.css.map": "/resume/static/css/main.a405239f.chunk.css.map",
+  "static/media/logo.svg": "/resume/static/media/logo.5d5d9eef.svg"
 }
